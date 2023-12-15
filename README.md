@@ -70,9 +70,8 @@ python pdf_summarization_app.py
 
 - Review: The summarized content is presented, ready for your review and insights.
 
-## How It Works Diagram
 
-- Usage Guide 💡
+## Usage Guide 💡
 
 Step 1: Open the web interface.
 
@@ -98,10 +97,9 @@ Step 4: Click "Summarize" and see the AI in action!
 
 This project is under the Apache License. See LICENSE for more details.
 
-
 Project Link: https://github.com/sidsanc/PDFSummarizer
 
-Acknowledgements 🙏
+## Acknowledgements 🙏
 
 - [OpenAI](https://openai.com/)
 
