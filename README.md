@@ -1,8 +1,7 @@
 # PDFSummarizer: Elevate Your Reading Experience 📘🌟
  
 [![Project Report](https://github.com/sidsanc/PDFSummarizer/assets/47080427/6c297600-e1f7-4b11-8241-ff21c62e5920)
-)](https://docs.google.com/document/d/1wfP1YgiNws53CV4u1QzHVVDFQiUZTaw9DzXifsq2MdY/edit?usp=sharing)
-
+](https://docs.google.com/document/d/1wfP1YgiNws53CV4u1QzHVVDFQiUZTaw9DzXifsq2MdY/edit?usp=sharing)
 
 ## Features 🚀
 
