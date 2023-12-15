@@ -37,17 +37,19 @@ git clone https://github.com/your-github-username/PDFSummarizer.git
 
   - Conda:
 
-  ```bash
+```bash
 conda env create -f environment.yml
 conda activate summarization_env
-  ```
+```
     
   - pip
+
 ```
 pip install -r requirements.txt
 ```
 
 - Launch the App
+  
   - Streamlit:
 
 ```bash
