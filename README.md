@@ -1,6 +1,5 @@
 # PDFSummarizer: Elevate Your Reading Experience 📘🌟
 
-Welcome to PDFSummarizer, where advanced AI meets user-friendly technology to revolutionize your interaction with PDF documents. Dive into summaries, grasp essential information swiftly, and redefine your reading efficiency.
 
 ## Features 🚀
 
