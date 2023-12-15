@@ -41,9 +41,8 @@ git clone https://github.com/your-github-username/PDFSummarizer.git
 conda env create -f environment.yml
 conda activate summarization_env
 ```
-
+    
   - pip
-
 ```
 pip install -r requirements.txt
 ```
