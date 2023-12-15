@@ -42,7 +42,7 @@ conda env create -f environment.yml
 conda activate summarization_env
 ```
 
-  - pip
+- - pip
 
 ```
 pip install -r requirements.txt
