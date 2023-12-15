@@ -1,6 +1,6 @@
 # PDFSummarizer: Elevate Your Reading Experience 📘🌟
 
-![image](https://github.com/sidsanc/PDFSummarizer/assets/47080427/6c297600-e1f7-4b11-8241-ff21c62e5920)
+![image](https://drive.google.com/drive/folders/1tDR8D1ydGAUTVQkf4X4qFP5QCQT1xskE?usp=sharing)
  
 [Project Report](https://docs.google.com/document/d/1wfP1YgiNws53CV4u1QzHVVDFQiUZTaw9DzXifsq2MdY/edit?usp=sharing)
 
@@ -16,7 +16,7 @@
 
 - Visual Text Chunking: Enhance understanding with color-coded text visualization.
 
-  [![Presentation](https://github.com/sidsanc/PDFSummarizer/assets/47080427/0828c696-778c-433f-b651-5f3dedcac87f)
+  [![Presentation](https://github.com/sidsanc/PDFSummarizer/assets/47080427/0ef63b71-f29f-4e49-b400-e5164188af81)
 ](https://drive.google.com/drive/folders/1tDR8D1ydGAUTVQkf4X4qFP5QCQT1xskE?usp=sharing)
 
 ## PDFSummarizer Interface
