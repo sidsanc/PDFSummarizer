@@ -28,40 +28,38 @@ Welcome to PDFSummarizer, where advanced AI meets user-friendly technology to re
 
 - Clone the Repository
 
-bash 
-'''
+```bash
 git clone https://github.com/your-github-username/PDFSummarizer.git
-'''
+
+```
 
 - Environment Setup
 
   - Conda:
 
-'''
+```bash
 conda env create -f environment.yml
 conda activate summarization_env
-'''
+```
 
   - pip
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 - Launch the App
   - Streamlit:
 
-bash
-'''
+```bash
 streamlit run custom_summarization_app_streamlit_version.py
-'''
+```
 
   - Gradio
 
-bash
-'''
+```bash
 python pdf_summarization_app.py
-'''
+```
 
 ## How It Works 🔍
 
