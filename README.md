@@ -18,7 +18,7 @@
 - Visual Text Chunking: Enhance understanding with color-coded text visualization.
 
 
-### Presentation
+### Presentation (Click Below)
 
 [![Presentation](https://github.com/sidsanc/PDFSummarizer/assets/47080427/038886f2-017c-4fbd-b489-31ca0f6e8a6b)
 ](https://docs.google.com/presentation/d/1eFMC-Otj8UvuLEf9lm_89wZETGX09nw3/edit#slide=id.p1)
