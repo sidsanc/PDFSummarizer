@@ -92,17 +92,6 @@ Step 3: (Optional) Enter a custom prompt.
 
 Step 4: Click "Summarize" and see the AI in action!
 
-## Contributing 🤝
-
-- Fork the Project
-
-- Create a Feature Branch (git checkout -b feature/AmazingFeature)
-
-- Commit Changes (git commit -m 'Add AmazingFeature')
-
-- Push to Branch (git push origin feature/AmazingFeature)
-
-- Open a Pull Request
 
 ## License 📄
 
