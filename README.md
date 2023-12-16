@@ -3,7 +3,7 @@
 ![image](https://github.com/sidsanc/PDFSummarizer/assets/47080427/f63bc811-90ce-4c14-96bf-e9a1f9b838f5)
 
  
-[Project Report](https://docs.google.com/document/d/1wfP1YgiNws53CV4u1QzHVVDFQiUZTaw9DzXifsq2MdY/edit?usp=sharing)
+## [Project Report](https://docs.google.com/document/d/1wfP1YgiNws53CV4u1QzHVVDFQiUZTaw9DzXifsq2MdY/edit?usp=sharing)
 
 ## Features 🚀
 
@@ -38,18 +38,20 @@
 - Clone the Repository
 
 ```bash
-git clone https://github.com/your-github-username/PDFSummarizer.git
+git clone https://github.com/sidsanc/PDFSummarizer.git
 
 ```
 
 - Environment Setup
 
 1. Conda:
+   - Change the prefix to your anaconda location in environment.yml
 
 ```bash
 conda env create -f environment.yml
 conda activate summarization_env
 ```
+
     
 2. pip
 
